@@ -1,7 +1,5 @@
 # Genetic Algorithm based ConvNet
 
-# Genetic Algorithm based ConvNet
-
 This GitHub repository presents an innovative implementation of a Convolutional Neural Network (ConvNet) architecture optimized using Genetic Algorithms. Harnessing the power of evolutionary principles, our Genetic Algorithm based ConvNet offers a unique approach to training and fine-tuning deep neural networks.
 
 ## Features:
